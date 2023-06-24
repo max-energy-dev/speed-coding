@@ -1,0 +1,1 @@
+Write a function called find_max_difference that takes in a list of integers as input and returns the maximum difference between any two elements in the list. If the list is empty or contains only one element, the function should return 0.
